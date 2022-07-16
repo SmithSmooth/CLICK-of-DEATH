@@ -1,16 +1,11 @@
-# magicclick
+This is a Mini Game dveloped In Flutter. It contains circle balls which move randomly. They are two types of balls, Blue in color, and red in color. The blue balls are generally more than the red ones , but when you click on them , they give you one point.
 
-A new Flutter project.
+Wgile for the red balls when you click them they , reduce your score by -10 points. You score can end up being negative, if you don't click the blue balls first.
 
-## Getting Started
+This game has been developed by a 17 Year old , Smith, who is going to change the world and make it a better place by the technology he will potray.
 
-This project is a starting point for a Flutter application.
+Hope you enjoy the game.
 
-A few resources to get you started if this is your first Flutter project:
+I give some of the succees credit of this app, to this article => https://medium.com/@jessealbertgarcia/bouncing-ball-in-flutter-c24fef00ef71
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
