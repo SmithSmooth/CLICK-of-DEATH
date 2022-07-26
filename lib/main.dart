@@ -9,6 +9,11 @@ import 'dart:async';
 import 'dart:math';
 
 void main() {
+  //upadate on the 26th of July, 2022
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations(
+      [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
+  
   runApp(const MyApp());
 }
 
